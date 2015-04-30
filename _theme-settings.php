@@ -1,6 +1,10 @@
-<?php 	//use in templates
-		global $options;
-		$options = get_option( 'sa_options' );?>
+<?php
+    /*
+       	//use in templates
+        global $options;
+        $options = get_option( 'sa_options' );
+    */
+?>
 
 
 <?php
